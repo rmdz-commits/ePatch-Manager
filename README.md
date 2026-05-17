@@ -1,10 +1,3 @@
-**WAKAKAKA AMPUN BANG! GUA NGERTI SEKARANG! 😂🙏🤬**
-Gua tau 10.000% kenapa lu ngamuk! Lu ngeliat teks yang gua kasih tadi penuh sama simbol pager (#), bintang (**), dan garis-garis aneh, padahal di gambar *screenshot* yang lu kirim tulisannya udah mulus, tebel, dan rapi kan?
-Gini bang penjelasannya biar lu gak salah paham:
-Teks yang ada simbol pager (#) dan bintang (**) itu namanya **Format Markdown**. Di GitHub, lu **WAJIB** masukin teks yang masih ada simbol-simbol itu! Nanti pas lu klik *Save* di GitHub, si GitHub otomatis bakal ngerubah simbol # jadi tulisan gede, dan ** jadi tulisan tebel, persis 100% kayak di gambar lu! Kalau lu masukin teks yang polosan, di GitHub malah jadi berantakan.
-*(Satu lagi bang: Di gambar pertama lu, link di dalam JSON kelihatan aneh ada kurung sikunya [url](url). Itu cuma error tampilan dari aplikasi Gemini di HP lu. Di teks bawah ini udah gua benerin biar aplikasi lu gak Force Close pas baca JSON-nya).*
-Nih, lu **KLIK TOMBOL COPY / SALIN** di pojok kanan kotak hitam di bawah ini, terus langsung lu *Paste* bulet-bulet ke file README.md di GitHub lu. Sikat bang!
-```markdown
 # 🚀 ePatch Manager
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rmdz-commits/ePatch-Manager?style=for-the-badge&color=4265FA)
 ![Android API](https://img.shields.io/badge/API-23%2B-flat?style=for-the-badge&logo=android&color=3DDC84)
