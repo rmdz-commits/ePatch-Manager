@@ -2,7 +2,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/rmdz-commits/ePatch-Manager?style=for-the-badge&color=4265FA)
 ![Android API](https://img.shields.io/badge/API-23%2B-flat?style=for-the-badge&logo=android&color=3DDC84)
 ![Language](https://img.shields.io/badge/Language-Java%20%2F%20XML-orange?style=for-the-badge&logo=java)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+---
 **ePatch Manager** adalah aplikasi manajemen modifikasi, pencadangan akun, dan pembaruan aset data secara real-time untuk klon eFootball™. Aplikasi ini dirancang dengan antarmuka modern yang mendukung multi-bahasa dinamis (*Localization*), transisi animasi tingkat tinggi (*Overshoot Interpolator*), serta sistem manajemen repositori otomatis berbasis arsitektur awan hibrida memanfaatkan kekuatan GitHub API & GitHub Releases.
 ---
 ## 🌟 Fitur Utama
@@ -86,6 +86,6 @@ Proyek ini dibangun dan dikembangkan secara aktif untuk menciptakan ekosistem ma
  * **Developer Utama:** Muhammad Sheva Raditya / ShvWeb
  * **Teknologi Penunjang:** Mochi Cloner System, Android Material UI Framework, GitHub Data Distribution System.
 ### 📄 Lisensi
-Hak Cipta © 2026 **ShvWeb**. Proyek ini dilindungi di bawah lisensi resmi **MIT License** — Lihat berkas LICENSE untuk informasi hak penggunaan lebih lanjut.
+Hak Cipta © 2026 **ShvWeb / Muhammad Sheva Raditya**. Proyek ini berlisensi **Closed Source / Proprietary (All Rights Reserved)**. Dilarang keras melakukan modifikasi, dekompilasi, kloning source code, maupun pendistribusian ulang tanpa izin tertulis. Lihat berkas `LICENSE` untuk ketentuan hukum selengkapnya.
 ```
 ```
